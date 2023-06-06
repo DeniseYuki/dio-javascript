@@ -1,0 +1,2 @@
+// Verificar idade
+function (idade) { }
